@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/saurabh19304/Saurabh19304/blob/main/github%20cover.png?raw=true)
+![MasterHead](https://github.com/saurabh19304/Saurabh19304/blob/main/cover%20github.png?raw=true)
 <h1 align="center">Hi 👋, Welcome Visitor:)</h1>
 <h3 align="center"></h3>
 <img align="right" width="400" src="https://github.com/saurabh19304/Saurabh19304/blob/main/giphy.gif?rawtrue" >
