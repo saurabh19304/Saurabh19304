@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh19304&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh19304" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh19304" alt="saurabh19304" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on [Live Sports Broadcast Engine](https://github.com/saurabh19304/Sportz-WebSocket)
 
 - 🌱 I’m currently learning **PostgreSQL and Nest.js later Drizzle**
@@ -16,10 +12,6 @@
 - 🤝 I’m looking for help with [Resumind](https://github.com/saurabh19304/ATS-resume--analyzer)
 
 - 📫 How to reach me **sourabhscareer@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,7 +23,7 @@
 <a href="https://codeforces.com/profile/sourabh_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sourabh_tiwari" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/saurabh_ping12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saurabh_ping12" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/<saurabh20muir>/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<saurabh20muir>/profile" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/E7rcSMNw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/E7rcSMNw" height="30" width="40" /></a>
+<a href="https://discord.gg/E7rcSMNw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="E7rcSMNw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
