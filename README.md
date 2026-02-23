@@ -1,6 +1,7 @@
+;[MasterHead](https://github.com/saurabh19304/Saurabh19304/blob/main/github%20cover.png?raw=true)
 <h1 align="center">Hi 👋, I'm Saurabh Tiwari :)</h1>
 <h3 align="center">A Very Passionate And Curious Developer</h3>
-
+<img align="right" width="400" src="https://github.com/saurabh19304/Saurabh19304/blob/main/giphy.gif?rawtrue" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh19304&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh19304" /> </p>
 
 - 🔭 I’m currently working on [Live Sports Broadcast Engine](https://github.com/saurabh19304/Sportz-WebSocket)
