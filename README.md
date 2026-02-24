@@ -29,7 +29,7 @@
 et="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45"/></a>
 </p>
 
-<h2 align="center">⚡ Tech Stack</h2>
+<h2 align="center">Tools and Stacks</h2>
 
 <!-- Frontend -->
 <p align="center">
